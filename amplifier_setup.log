@@ -1,0 +1,24 @@
+Circuit: * S:\My Documents\DavidHouston\FPSi Senior Project\amplifier_setup.asc
+
+WARNING: Node N004 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Aug 06 20:42:48 2015
+Total elapsed time: 2.633 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9383
+traniter = 9377
+tranpoints = 4108
+accept = 3210
+rejected = 898
+matrix size = 19
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.12 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: 1.49 KB object code size  0.5/0.6/[0.3]
+
+
